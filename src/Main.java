@@ -7,6 +7,6 @@ public class Main {
         System.out.print("test");
         System.out.print("test");
         System.out.print("test");
-        System.out.print("dev1");
+        System.out.print("master1");
     }
 }
