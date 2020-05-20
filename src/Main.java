@@ -9,5 +9,6 @@ public class Main {
         System.out.print("test");
         System.out.print("master1");
         System.out.print("master2");
+        System.out.print("master3");
     }
 }
